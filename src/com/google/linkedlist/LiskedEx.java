@@ -6,11 +6,11 @@ import java.util.List;
 public class LiskedEx {
 
 	public static void main(String[] args) {
-		List lsdgdgdddgdgdgddgdgdgdgdgd = new LinkedList();
-		lsdgdgdddgdgdgddgdgdgdgdgd.add(88);
-		lsdgdgdddgdgdgddgdgdgdgdgd.add(88);
+		List ls = new LinkedList();
+		ls.add(88);
+		ls.add(88);
 
-		System.out.println(lsdgdgdddgdgdgddgdgdgdgdgd.size());
+		System.out.println(ls.size());
 
 	}
 
